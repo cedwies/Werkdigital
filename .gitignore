@@ -1,0 +1,28 @@
+# allgemein
+.DS_Store
+*.log
+*.env
+.env.local
+.env.*.local
+
+# backend
+node_modules/
+npm-debug.log
+dist/
+coverage/
+
+# frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.DS_Store
+frontend/npm-debug.log
+
+# test
+*.test.js
+*.spec.js
+
+# sonstiges
+.idea/
+.vscode/
+*.swp
