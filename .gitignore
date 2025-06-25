@@ -18,9 +18,6 @@ frontend/.env
 frontend/.DS_Store
 frontend/npm-debug.log
 
-# test
-*.test.js
-*.spec.js
 
 # sonstiges
 .idea/
