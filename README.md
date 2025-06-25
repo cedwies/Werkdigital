@@ -60,6 +60,8 @@ npm install
 npm run dev
 ```
 
+Das Backend läuft auf [`http://localhost:3001`](http://localhost:3001) 
+
 ---
 
 ### 2. Frontend starten
@@ -70,8 +72,8 @@ npm install
 npm start
 ```
 
-Das Frontend läuft auf [`http://localhost:3001`](http://localhost:3001)  
-(Achtung: In `package.json` ist ein Proxy definiert)
+Das Frontend läuft auf [`http://localhost:3000`](http://localhost:3000)  
+
 
 ---
 
